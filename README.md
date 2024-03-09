@@ -1,5 +1,5 @@
 <a href="https://github.com/gagandeep-sehjal/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" height="300px" width="800">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" height="260px" width="1000">
 </a>
 <h1 align="center">Hi 👋, I'm Gagandeep Singh Sehjal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
